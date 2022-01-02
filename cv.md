@@ -1,10 +1,3 @@
-> 
-> Мудрого человека.
-* CV#1
-  * git add
-  * git commit
-  ![image](https://netcraftsmen.com/wp-content/uploads/2017/09/shutterstock_114252466.jpg)
-  # Приветствую вас на странице моего первого CV <h1>
 ## Я старался, честно <h2>
 ### *тут вот у меня курсив*<h3>
 #### **а тут жирный**<h4>
